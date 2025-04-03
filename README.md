@@ -1,7 +1,5 @@
 # CNN_WC
-For training purposes!
 
----
 ♻️ Waste Classification using CNN & Streamlit
 
 🚀 An AI-powered web app that classifies waste as Organic or Recyclable using a Convolutional Neural Network (CNN).
@@ -12,8 +10,7 @@ For training purposes!
 
 ---
 📌 About the Project
-
-This project was developed as a part of AICTE Internship Training (Cycle 3). The model classifies waste images into Organic or Recyclable categories, contributing to environmental sustainability.
+ The model classifies waste images into Organic or Recyclable categories, contributing to environmental sustainability.
 
 ✨ Key Features
 
@@ -38,7 +35,6 @@ This project was developed as a part of AICTE Internship Training (Cycle 3). The
 📂 Dataset & Model Information
 
 - Dataset Provider: Techsash (Kaggle)
-- Model Architecture & Description: Skills4future
 - Trained on: Organic & Recyclable Waste Images
  
 ---
@@ -82,25 +78,9 @@ streamlit run app.py
 Predicted Class
 	🌱 Organic
 	♻️ Recyclable
-	
 
 ---
 
 💡 **Acknowledgments**
-
-🙏 Special thanks to:
-- Techsash (Kaggle) for providing the dataset
-- Skills4Future for model insights
-- AICTE Internship Cycle 3 for the opportunity
-
-📌 Trainer Credits: RMS 
-
-📩 Connect with Me
-
-📧 Email: 
-🔗 LinkedIn: www.linkedin.com/in/raghunandanms
-
----
-🎯 Now Go & Try the App! 🔥
 
 🔗 👉 [Click here to access the live Streamlit App](https://wccnnrms.streamlit.app)
