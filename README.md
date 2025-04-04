@@ -6,13 +6,12 @@
 
 ---
 📌 About the Project
- The model classifies waste images into Organic or Recyclable categories, contributing to environmental sustainability.
+ The model classifies waste images into Organic, Recyclable & many more categories, contributing to environmental sustainability.
 
 ✨ Key Features
 
 ✅ CNN-Based Image Classification using TensorFlow
 ✅ Streamlit Web App for an interactive UI
-✅ Real-time Image Upload & Prediction
 ✅ Google Drive Integration to load the trained model
 ✅ Responsive UI with animations
 
@@ -28,19 +27,11 @@
 
 ---
 
-📂 Dataset & Model Information
-
-- Dataset Provider: Techsash (Kaggle)
-- Trained on: Organic & Recyclable Waste Images
- 
----
-
 🎮 How to Run Locally
 
 1️⃣ Clone the Repository
 
 - git clone https://github.com/SumitMali2003/Mini-Project-Sem-6.git
-- cd CNN_WC
 
 2️⃣ Install Dependencies
 
@@ -51,7 +42,7 @@ pip install -r requirements.txt
 
 ---
 
-streamlit run app.py
+streamlit run project.py
 
 🚀 Deploying on Streamlit Cloud
 
@@ -72,8 +63,15 @@ streamlit run app.py
  </p>
 
 Predicted Class
-	🌱 Organic
-	♻️ Recyclable
+    "Cardboard": "📦",
+    "Compost": "🌿",
+    "Glass": "🍾",
+    "Metal": "🔩",
+    "Paper": "📄",
+    "Plastic": "♳",
+    "Trash": "🚮",
+    "Organic": "🌱",
+    "Recyclable": "🔄"
 
 ---
 
