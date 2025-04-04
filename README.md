@@ -4,10 +4,6 @@
 
 🚀 An AI-powered web app that classifies waste as Organic or Recyclable using a Convolutional Neural Network (CNN).
 
-![Project Title](images/title.jpg)
- 
-🔗 Live Demo: [Check it here!](https://wccnnrms.streamlit.app)
-
 ---
 📌 About the Project
  The model classifies waste images into Organic or Recyclable categories, contributing to environmental sustainability.
