@@ -43,7 +43,7 @@
 
 1️⃣ Clone the Repository
 
-- git clone https://github.com/RGS-AI/CNN_WC.git
+- git clone https://github.com/SumitMali2003/Mini-Project-Sem-6.git
 - cd CNN_WC
 
 2️⃣ Install Dependencies
